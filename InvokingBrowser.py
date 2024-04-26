@@ -11,6 +11,7 @@ our_url = "https://rahulshettyacademy.com/"
 fetched_url = driver.current_url
 fetchedd_url = driver.current_url
 fetcheddd_url = driver.current_url
+fetchedddd_url = driver.current_url
 
 
 
